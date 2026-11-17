@@ -1,0 +1,11 @@
+{
+    "include": [
+        "main.py",
+        "src",
+        "tests"
+    ],
+    "extraPaths": [
+        "."
+    ],
+    "pythonVersion": "3.15"
+}
